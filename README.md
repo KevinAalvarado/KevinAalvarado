@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hola, soy Kevin Alvarado 👋
 
-<!--
-**KevinAalvarado/KevinAalvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+🎓 Estudiante de Software👨‍🎓</br>
+🖥️ Programador de aplicaciones desktop y android</br>
+🏐 Crackster </br>
+</br>
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías:
+
+[![JavaScript](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![SqlServer](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Java-B32629?style=for-the-badge&logo=ImageJ&logoColor=white&labelColor=101010)]()
