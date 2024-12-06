@@ -3,22 +3,8 @@
 </div>
 
 <img src="https://github.com/KevinAalvarado/KevinAalvarado/blob/main/banner.png">
-<a href="https://instagram.com/kev.alvaradu" target="_blank" style="text-decoration: none;">
-  <div style="
-    display: inline-flex;
-    align-items: center;
-    background-color: #E4405F;
-    color: white;
-    border-radius: 25px;
-    padding: 10px 20px;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" style="width: 24px; height: 24px; margin-right: 10px;">
-  </div>
-</a>
+![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 </br>
 
 
