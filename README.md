@@ -21,10 +21,14 @@
 
 ## Tecnologías:
 
-[![C#](https://img.shields.io/badge/C%20Sharp-FA7343?style=for-the-badge&logo=Csharp&logoColor=white&labelColor=101010)]()
-</br>
-[![JavaScript](https://img.shields.io/badge/JavaScrip-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-</br>
-[![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white&labelColor=101010)]()
-</br>
-[![GitHub](https://img.shields.io/badge/GitHUb-FC6D26?style=for-the-badge&logo=GitHUb&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%20Sharp-FA7343?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
