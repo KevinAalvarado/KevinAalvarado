@@ -3,6 +3,7 @@
 </div>
 <img src="https://github.com/KevinAalvarado/KevinAalvarado/blob/main/banner.png">
 </br>
+🔗 [Sígueme en Instagram](https://instagram.com/kev.alvaradu) ✨
 
 🎓 Estudiante de Software👨‍🎓</br>
 🖥️ Programador de aplicaciones desktop y android</br>
