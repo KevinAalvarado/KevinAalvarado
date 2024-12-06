@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Kevin Alvarado 👋</h1>
 </div>
-![Banner](https://github.com/KevinAalvarado/KevinAalvarado/blob/main/banner.png)
-</br>
+<img src="https://github.com/KevinAalvarado/KevinAalvarado/blob/main/banner.png">
+
 
 🎓 Estudiante de Software👨‍🎓</br>
 🖥️ Programador de aplicaciones desktop y android</br>
