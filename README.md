@@ -17,7 +17,6 @@
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" style="width: 24px; height: 24px; margin-right: 10px;">
-    Sígueme en Instagram
   </div>
 </a>
 
