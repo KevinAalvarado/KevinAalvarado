@@ -2,7 +2,6 @@
 <h1 align="center">Hola, soy Kevin Alvarado 👋</h1>
 </div>
 ![Banner](file:///D:/Kevin/Descargas/kevin-alvarado_66257670/000.png)
-<img src="file:///D:/Kevin/Descargas/kevin-alvarado_66257670/000.png"
 </br>
 
 🎓 Estudiante de Software👨‍🎓</br>
