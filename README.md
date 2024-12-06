@@ -19,6 +19,24 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" style="width: 24px; height: 24px; margin-right: 10px;">
   </div>
 </a>
+<a href="mailto:kevinalvarado1175@gmail.com" target="_blank" style="text-decoration: none;">
+  <div style="
+    display: inline-flex;
+    align-items: center;
+    background-color: #D44638;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Gmail_Icon.png" alt="Gmail" style="width: 24px; height: 24px; margin-right: 10px;">
+    Envíame un correo
+  </div>
+</a>
+
 
 </br>
 
