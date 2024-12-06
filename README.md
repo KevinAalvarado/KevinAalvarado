@@ -4,7 +4,8 @@
 
 <img src="https://github.com/KevinAalvarado/KevinAalvarado/blob/main/banner.png">
 
-![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kev.alvaradu)
+
 
 </br>
 
