@@ -3,6 +3,7 @@
 </div>
 <img src="https://github.com/KevinAalvarado/KevinAalvarado/blob/main/banner.png">
 </br>
+[![Instagram](https://badgen.net/badge/Instagram/Sígueme/E4405F?icon=instagram)](https://instagram.com/kevi.alvaradu)
 🔗 [Sígueme en Instagram](https://instagram.com/kev.alvaradu) ✨
 
 🎓 Estudiante de Software👨‍🎓</br>
