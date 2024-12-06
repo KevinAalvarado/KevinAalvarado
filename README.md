@@ -22,10 +22,10 @@
 </br>
 
 
--🎓 Estudiante de Software👨‍🎓</br>
--🖥️ Programador de aplicaciones Web, desktop y android</br>
--🏐 Crackster </br>
--🎠 Acarreadin </br>
+- 🎓 Estudiante de Software👨‍🎓</br>
+- 🖥️ Programador de aplicaciones Web, desktop y android</br>
+- 🏐 Crackster </br>
+- 🎠 Acarreadin </br>
 </br>
 </br>
 </br>
