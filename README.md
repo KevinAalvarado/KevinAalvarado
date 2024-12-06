@@ -30,3 +30,9 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+
+## Estadísticas:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAalvarado&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&title_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAalvarado&layout=compact&theme=dark&title_color=ffffff)
+
