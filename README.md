@@ -16,8 +16,6 @@
 - 🏐 Crackster </br>
 - 🎠 Acarreadin </br>
 </br>
-</br>
-</br>
 
 ## Tecnologías:
 
