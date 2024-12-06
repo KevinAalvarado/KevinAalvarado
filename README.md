@@ -1,6 +1,10 @@
 <div align="center">
 <h1 align="center">¡Hola! 👋 Bienvenido a mi perfil.</h1>
 </div>
+<a href="https://instagram.com/kev.alvaradu" target="_blank">
+  <img src="https://badgen.net/badge/Instagram/Sígueme/E4405F?icon=instagram" alt="Instagram">
+</a>
+
 <img src="https://github.com/KevinAalvarado/KevinAalvarado/blob/main/banner.png">
 </br>
 [![Instagram](https://badgen.net/badge/Instagram/Sígueme/E4405F?icon=instagram)](https://instagram.com/kevi.alvaradu)
