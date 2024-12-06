@@ -7,9 +7,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kev.alvaradu)
 [![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kevinjah1975@gmail.com)
 
-
 </br>
 
+## 👨‍💻 Sobre mí:
 
 - 🎓 Estudiante de Software👨‍🎓</br>
 - 🖥️ Programador de aplicaciones Web, desktop y android</br>
