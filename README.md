@@ -23,7 +23,7 @@
 
 
 🎓 Estudiante de Software👨‍🎓</br>
-🖥️ Programador de aplicaciones desktop y android</br>
+🖥️ Programador de aplicaciones Web, desktop y android</br>
 🏐 Crackster </br>
 🎠 Acarreadin </br>
 </br>
