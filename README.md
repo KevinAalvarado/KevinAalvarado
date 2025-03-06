@@ -33,7 +33,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 
-## Estadísticas:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAalvarado&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&title_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAalvarado&layout=compact&theme=dark&title_color=ffffff)
